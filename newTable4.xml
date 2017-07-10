@@ -1,0 +1,10 @@
+<table name="newTable4">
+	<reqItem>null</reqItem>
+	<reqGem>null</reqGem>
+	<RollableEffect n="1">
+		<minRoll>1</minRoll>
+		<maxRoll>10</maxRoll>
+		<EffectName>test</EffectName>
+		<Effect>null</Effect>
+	</RollableEffect>
+	</table>

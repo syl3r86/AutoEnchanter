@@ -1,0 +1,16 @@
+<table name="table1">
+	<reqItem>WEAPON</reqItem>
+	<reqGem>null</reqGem>
+	<RollableEffect n="1">
+		<minRoll>1</minRoll>
+		<maxRoll>10</maxRoll>
+		<EffectName>mincing</EffectName>
+		<Effect>Adds 2 slicing damage</Effect>
+	</RollableEffect>
+	<RollableEffect n="2">
+		<minRoll>11</minRoll>
+		<maxRoll>20</maxRoll>
+		<EffectName>crawling</EffectName>
+		<Effect>Adds 2 crushing damage</Effect>
+	</RollableEffect>
+</table>

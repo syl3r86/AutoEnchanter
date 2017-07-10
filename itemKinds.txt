@@ -1,0 +1,4 @@
+ARMOR
+WEAPON
+weapon
+testitem
