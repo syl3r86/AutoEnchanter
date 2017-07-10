@@ -1,7 +1,5 @@
 Welcome to the incredible
-# ####################### #
 # Enchant-o-tron 9001 #
-# ####################### #
 
 This is a program meant to be used for easy enchanting in a dndgame.
 It lets you build up rollable Tables on which different effects can be rolled and then (if aplicable) rolls on any subtable for each rolled Effect.
